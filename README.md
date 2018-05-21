@@ -2,11 +2,11 @@
 
 ## index
 - [accounts](#accounts)
-    - [`GET /api/accounts/:identifier`](#get-apiaccounts)
+    - [`GET /api/accounts/:identifier`](#get-apiaccountsidentifier)
     - [`POST /api/accounts/`](#post-apiaccounts)
-    - [`PATCH /api/accounts/:identifier/set_tier`](#patch-apiaccountsset_tier)
-    - [`PATCH /api/accounts/:identifier/pwd`](#patch-apiaccountspwd)
-    - [`PATCH /api/accounts/:identifier/email`](#patch-apiaccountsemail)
+    - [`PATCH /api/accounts/:identifier/set_tier`](#patch-apiaccountsidentifierset_tier)
+    - [`PATCH /api/accounts/:identifier/pwd`](#patch-apiaccountsidentifierpwd)
+    - [`PATCH /api/accounts/:identifier/email`](#patch-apiaccountsidentifieremail)
 - [auth](#auth)
     - [info](#authorizing-requests)
     - [`POST /api/auth`](#post-apiauth)
